@@ -104,9 +104,8 @@ body {
 
 .hero__img2 {
 	position: absolute;
-	bottom: -200px;
-  right: 450px;
-
+	bottom: -350px;
+	right: 0;
 }
 
 .hero__title {
